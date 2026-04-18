@@ -16,6 +16,7 @@ html, body{
     background: linear-gradient(90deg , lightblue , lightpink);
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     gap: 20px;
 }
